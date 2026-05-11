@@ -388,7 +388,6 @@ Launch: `HotelRoyal.bat` (double-click)
 
 | Email | Password |
 |---|---|
-| yousefmahmoudsaber@gmail.com | Youssef@#321 |
 | ahmed.ali@gmail.com | Customer@2026 |
 | fatima.nasser@gmail.com | Customer@2026 |
 | mohamed.samir@gmail.com | Customer@2026 |
